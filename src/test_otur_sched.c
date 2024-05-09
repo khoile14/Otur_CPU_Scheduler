@@ -1,21 +1,3 @@
-/* FEEL FREE TO EDIT THIS FILE
- * - test_otur_sched.c (Otur Scheduler Library Code)
- * - Copyright of Starter Code: Prof. Kevin Andrea, George Mason University.  All Rights Reserved
- * - Copyright of Student Code: You!
- * - Date: Jan 2024
- *
- *   Framework to demonstrate how you can write a Unit Tester for your Project
- *   - Not a requirement to use, but it may be helpful if you like.
- *   - This only has one example of a test case in it, so it is just to show how to write them.
- *
- *   This lets you test your otur_sched.c code WITHOUT any of the StrawHat code running.
- *
- *   Why run all tests every time instead of checking a function once to see that it works?
- *   - You could break existing code when adding a new feature.
- *   - Test files like this are useful to check all of the tests every time, so you can make sure
- *     you didn't break something that used to work when you add new code.
- */
-
 /* Standard Library Includes */
 #include <stdio.h>
 #include <stdlib.h>
